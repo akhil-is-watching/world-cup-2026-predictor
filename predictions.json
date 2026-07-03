@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-07-03T05:41:54.584686",
+  "tournament": "FIFA World Cup 2026",
+  "hosts": ["Canada", "Mexico", "United States"],
+  "format": "12 groups of 4 teams, 48 teams total, 104 matches",
+  "top_10_predictions": [
+    {"rank": 1, "team": "France", "country_code": "FRA", "win_probability_percent": 3.08},
+    {"rank": 2, "team": "Argentina", "country_code": "ARG", "win_probability_percent": 3.02},
+    {"rank": 3, "team": "Brazil", "country_code": "BRA", "win_probability_percent": 2.97},
+    {"rank": 4, "team": "Spain", "country_code": "ESP", "win_probability_percent": 2.96},
+    {"rank": 5, "team": "England", "country_code": "ENG", "win_probability_percent": 2.90},
+    {"rank": 6, "team": "Netherlands", "country_code": "NED", "win_probability_percent": 2.84},
+    {"rank": 7, "team": "Germany", "country_code": "DEU", "win_probability_percent": 2.80},
+    {"rank": 8, "team": "Portugal", "country_code": "POR", "win_probability_percent": 2.77},
+    {"rank": 9, "team": "Belgium", "country_code": "BEL", "win_probability_percent": 2.64},
+    {"rank": 10, "team": "Uruguay", "country_code": "URU", "win_probability_percent": 2.48}
+  ],
+  "all_teams": {
+    "France": {"country_code": "FRA", "fifa_ranking": 4, "squad_strength": 98.0, "recent_form": 95.0, "experience": 95.0, "win_probability": 3.08},
+    "Argentina": {"country_code": "ARG", "fifa_ranking": 5, "squad_strength": 96.0, "recent_form": 92.0, "experience": 93.0, "win_probability": 3.02},
+    "Brazil": {"country_code": "BRA", "fifa_ranking": 1, "squad_strength": 95.0, "recent_form": 91.0, "experience": 88.0, "win_probability": 2.97},
+    "Spain": {"country_code": "ESP", "fifa_ranking": 8, "squad_strength": 94.0, "recent_form": 90.0, "experience": 92.0, "win_probability": 2.96},
+    "England": {"country_code": "ENG", "fifa_ranking": 6, "squad_strength": 92.0, "recent_form": 88.0, "experience": 85.0, "win_probability": 2.90},
+    "Netherlands": {"country_code": "NED", "fifa_ranking": 8, "squad_strength": 89.0, "recent_form": 84.0, "experience": 87.0, "win_probability": 2.84},
+    "Germany": {"country_code": "DEU", "fifa_ranking": 16, "squad_strength": 90.0, "recent_form": 85.0, "experience": 90.0, "win_probability": 2.80},
+    "Portugal": {"country_code": "POR", "fifa_ranking": 12, "squad_strength": 86.0, "recent_form": 82.0, "experience": 88.0, "win_probability": 2.77},
+    "Belgium": {"country_code": "BEL", "fifa_ranking": 20, "squad_strength": 84.0, "recent_form": 80.0, "experience": 82.0, "win_probability": 2.64},
+    "Uruguay": {"country_code": "URU", "fifa_ranking": 26, "squad_strength": 78.0, "recent_form": 76.0, "experience": 84.0, "win_probability": 2.48}
+  },
+  "model_info": {
+    "methodology": "Weighted composite model",
+    "factors": {"FIFA Ranking": "35%", "Recent Form": "25%", "Squad Strength": "20%", "Experience": "15%", "Confederation Bonus": "5%"}
+  }
+}
